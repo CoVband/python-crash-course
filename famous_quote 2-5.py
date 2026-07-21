@@ -1,3 +1,5 @@
+# Learning how to use single and double apostrophes
+
 quote = '"A person who never made a mistake never tried anything new."'
 print(quote)
 print("Albert Einstein once said, " + quote)
