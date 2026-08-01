@@ -20,7 +20,7 @@ motorcycles.append('suzuki')
 print(motorcycles)
 
 # Inserting an element into a list at any place
-motrcycles = ['honda', 'yamaha', 'suzuki']
+motorcycles = ['honda', 'yamaha', 'suzuki']
 
 motorcycles.insert(0, 'ducati')
 print(motorcycles)
